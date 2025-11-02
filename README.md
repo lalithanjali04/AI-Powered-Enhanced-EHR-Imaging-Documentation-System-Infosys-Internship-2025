@@ -182,6 +182,8 @@ Below is a sample before-and-after visualization generated during the enhancemen
 |----------------|----------------|
 | <img width="346" height="197" alt="Screenshot 2025-10-25 121646" src="https://github.com/user-attachments/assets/e9f7a47e-5a7a-4634-a2af-84b46197c365" /> | <img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/82039c86-b515-4910-98cb-ff16467b2d01" /> |
 
+---
+
 
 
 ## 🧠 Key Learnings
