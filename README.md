@@ -91,7 +91,8 @@ Performed post-cleaning validation to ensure:
 
 ## 📁 Output Directory Structure
 
-<img width="453" height="423" alt="Screenshot 2025-10-21 150800" src="https://github.com/user-attachments/assets/998bcb5a-36e7-47ba-825f-f6ef0e61b6e1" />
+<img width="453" height="423" alt="Screenshot 2025-10-21 150800" src="<img width="366" height="533" alt="Screenshot 2025-10-25 122000" src="https://github.com/user-attachments/assets/808fd87c-6556-4732-ab26-5f945c39eebf" />
+" />
 
 
 
@@ -169,8 +170,10 @@ Below is a sample before-and-after visualization generated during the enhancemen
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| <img src="https://github.com/user-attachments/assets/<img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/70a676e4-b043-47da-b5e3-331fd5182ef1" />
-" alt="Original X-ray" width="358" height="259"> | <img src=<img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/4bd02a99-4130-44f3-ab4c-ce0915d4a1db" />
+| <img src="<img width="346" height="197" alt="Screenshot 2025-10-25 121646" src="https://github.com/user-attachments/assets/7b3a7f4f-e326-48e2-a74f-f0a20406d075" />
+" />
+" alt="Original X-ray" width="358" height="259"> | <img src=<<img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/6c969ecc-87d1-4e68-b4b7-0c1de51c3561" />
+" />
 "> |
 
 
@@ -178,8 +181,10 @@ Below is a sample before-and-after visualization generated during the enhancemen
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| <img src="![Uploading Screenshot 2025-10-25 121559.png…]()
-" alt="Original Prescription" width="346" height="197"> | <img src="![Uploading Screenshot 2025-10-25 121628.png…]()
+| <img src="<img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/20b8f100-ed93-48ee-b523-284f67fea98a" />
+
+" alt="Original Prescription" width="346" height="197"> | <img src="!<img width="360" height="256" alt="Screenshot 2025-10-25 121628" src="https://github.com/user-attachments/assets/6c488d8d-b1b6-4caf-bad7-6a8027f8d226" />
+()
 " alt="Enhanced Prescription" width="334" height="180"> |
 
 ---
