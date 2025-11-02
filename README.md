@@ -169,15 +169,18 @@ Below is a sample before-and-after visualization generated during the enhancemen
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| <img src="https://github.com/user-attachments/assets/![Uploading Screenshot 2025-10-25 121559.png…]()
-" alt="Original X-ray" width="358" height="259"> | <img src="https://github.com/user-attachments/assets/f0b09641-6d2f-4eb3-b5fa-e615629e1108" alt="Enhanced X-ray" width="360" height="256"> |
+| <img src="https://github.com/user-attachments/assets/<img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/70a676e4-b043-47da-b5e3-331fd5182ef1" />
+" alt="Original X-ray" width="358" height="259"> | <img src=<img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/4bd02a99-4130-44f3-ab4c-ce0915d4a1db" />
+"> |
 
 
 ## 📝 Prescription Images: Before vs After Enhancement
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| <img src="https://github.com/user-attachments/assets/d842fe4d-f20c-4522-aa33-1a85402a3f1c" alt="Original Prescription" width="346" height="197"> | <img src="https://github.com/user-attachments/assets/f8a6b752-37fb-4f1c-9d1c-b7948190224d" alt="Enhanced Prescription" width="334" height="180"> |
+| <img src="![Uploading Screenshot 2025-10-25 121559.png…]()
+" alt="Original Prescription" width="346" height="197"> | <img src="![Uploading Screenshot 2025-10-25 121628.png…]()
+" alt="Enhanced Prescription" width="334" height="180"> |
 
 ---
 
@@ -245,7 +248,7 @@ The process involves three major steps:
 
 | Input (Prompt Snippet) | Output (Generated Note) |
 |----------------|----------------|
-| *Patient: Bobby Jackson, 30 years, Male, Condition: Cancer* | 🩺 **Clinical Summary:** Patient presents with fatigue and weight loss.<br>🔍 **Assessment:** Findings suggest malignancy progression.<br>💊 **Plan:** Continue chemotherapy and review after 2 weeks. |
+| *Patient: Bobby Jackson, 30 years, Male, Condition: Cancer* | 🩺 **Clinical Summary:** Patient presents with fatigue and weight loss.<br> |
 
 ---
 
