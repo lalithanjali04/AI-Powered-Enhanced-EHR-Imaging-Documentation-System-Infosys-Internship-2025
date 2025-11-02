@@ -93,7 +93,7 @@ Performed post-cleaning validation to ensure:
 
 ## 📁 Output Directory Structure
 
-<img width="441" height="432" alt="Screenshot 2025-10-21 150845" src="https://github.com/user-attachments/assets/1ee0a3da-3cd5-4660-b216-1c4a755187d4" />
+<img width="441" height="432" alt="Screenshot 2025-10-25 122000" src="https://github.com/user-attachments/assets/5ec75f22-741e-4b0a-a52c-faada2331beb" />
 
 
 
@@ -171,13 +171,16 @@ Below is a sample before-and-after visualization generated during the enhancemen
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| ![Original X-ray](https://github.com/user-attachments/assets/08e13357-5993-4a7c-b77f-a90b7b47a79c) | ![Enhanced X-ray](https://github.com/user-attachments/assets/47701af7-766f-4305-a76e-bc627069efef) |
+| ![Original X-ray](https://github.com/user-attachments/assets/<img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/2db8a912-3640-47f9-a7e7-2cb5306edf9d" />
+) | ![Enhanced X-ray](https://github.com/user-attachments/assets/Screenshot 2025-10-25 121628) |
 
 ## 📝 Prescription Images: Before vs After Enhancement
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| ![Original Prescription](https://github.com/user-attachments/assets/344fb232-2c0c-4734-ab0d-dfc1ae75f3b9) | ![Enhanced Prescription](https://github.com/user-attachments/assets/f4865b64-23b6-4a7d-bc83-dbd82b4c93db) |
+| ![Original Prescription](https://github.com/user-attachments/assets/<img width="346" height="197" alt="Screenshot 2025-10-25 121646" src="https://github.com/user-attachments/assets/e9f7a47e-5a7a-4634-a2af-84b46197c365" />
+) | ![Enhanced Prescription](https://github.com/user-attachments/assets/<img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/82039c86-b515-4910-98cb-ff16467b2d01" />
+) |
 
 ---
 
