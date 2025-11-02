@@ -172,7 +172,7 @@ Below is a sample before-and-after visualization generated during the enhancemen
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| <img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/2db8a912-3640-47f9-a7e7-2cb5306edf9d" /> | <img width="360" height="259" alt="Screenshot 2025-10-25 121628" src="https://github.com/user-attachments/assets/f3c2b3a7-f8ed-4f90-b693-c556a55e9af0" /> |
+| <img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/2db8a912-3640-47f9-a7e7-2cb5306edf9d" /> | <img width="360" height="259" alt="Screenshot 2025-10-25 121150" src="https://github.com/user-attachments/assets/f3c2b3a7-f8ed-4f90-b693-c556a55e9af0" /> |
 
 ---
 
