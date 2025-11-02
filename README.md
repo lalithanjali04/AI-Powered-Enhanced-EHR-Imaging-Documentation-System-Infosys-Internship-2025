@@ -167,22 +167,21 @@ To validate the quality of the enhanced images, the following quantitative metri
 ## 📊 Visual Comparison
 Below is a sample before-and-after visualization generated during the enhancement process:
 
+
 ## 🩻 X-ray Images: Before vs After Enhancement
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| ![Original X-ray](https://github.com/user-attachments/assets/<img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/2db8a912-3640-47f9-a7e7-2cb5306edf9d" />
-) | ![Enhanced X-ray](https://github.com/user-attachments/assets/Screenshot 2025-10-25 121628) |
+| <img width="358" height="259" alt="Screenshot 2025-10-25 121559" src="https://github.com/user-attachments/assets/2db8a912-3640-47f9-a7e7-2cb5306edf9d" /> | <img width="360" height="259" alt="Screenshot 2025-10-25 121628" src="https://github.com/user-attachments/assets/f3c2b3a7-f8ed-4f90-b693-c556a55e9af0" /> |
+
+---
 
 ## 📝 Prescription Images: Before vs After Enhancement
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| ![Original Prescription](https://github.com/user-attachments/assets/<img width="346" height="197" alt="Screenshot 2025-10-25 121646" src="https://github.com/user-attachments/assets/e9f7a47e-5a7a-4634-a2af-84b46197c365" />
-) | ![Enhanced Prescription](https://github.com/user-attachments/assets/<img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/82039c86-b515-4910-98cb-ff16467b2d01" />
-) |
+| <img width="346" height="197" alt="Screenshot 2025-10-25 121646" src="https://github.com/user-attachments/assets/e9f7a47e-5a7a-4634-a2af-84b46197c365" /> | <img width="334" height="180" alt="Screenshot 2025-10-25 121659" src="https://github.com/user-attachments/assets/82039c86-b515-4910-98cb-ff16467b2d01" /> |
 
----
 
 ## 🧠 Key Learnings
 - Image enhancement improves **diagnostic interpretability** before AI model training.
