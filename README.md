@@ -408,21 +408,18 @@ The dashboard is executed in **Google Colab** and exposed publicly using **Ngrok
 - `requirements.txt`
 
 ### **2️⃣ Install all dependencies**
-```bash
-!pip install -r requirements.txt
+- `!pip install -r requirements.txt`
 
-3️⃣ Start Streamlit and create Ngrok tunnel
+### 3️⃣ Start Streamlit and create Ngrok tunnel
 !streamlit run app.py --server.port 6006 & npx ngrok http 6006
 
-4️⃣ Copy the Ngrok Public URL generated
+### 4️⃣ Copy the Ngrok Public URL generated
 https://unquaking-alberta-caenogenetic.ngrok-free.dev
 
-📸 Deployment Demonstration
+# 📸 Deployment Demonstration
+Screenshots of the working deployed application are available in: /deployment_screenshots/
 
-Screenshots of the working deployed application are available in:
-/deployment_screenshots/
-
-🧠 Module Outcome
+## 🧠 Module Outcome
 
 ✔ Fully deployed EHR AI system
 ✔ Supports real-time patient record interaction
