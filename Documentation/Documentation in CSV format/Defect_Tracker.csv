@@ -1,0 +1,13 @@
+Type Of Defect,Action Taken,Action Taken Date,Status (Open/Closed),Remarks,Milestone
+Functional,Fixed image upload validation and preprocessing for low‑quality scans,2025-09-24,Closed,Upload module stable,Milestone 1
+Model Training,Enabled gradient checkpointing to fix GPU memory overflow,2025-09-28,Closed,Model training stable,Milestone 1
+Algorithmic,Tuned enhancement model to reduce noise amplification,2025-10-02,Closed,Sharper enhanced outputs,Milestone 1
+UI/Integration,Fixed API route mismatch affecting report display,2025-10-07,Closed,Integrated successfully,Milestone 2
+Clinical Summary,Corrected missing symptoms due to tokenizer misalignment,2025-10-10,Closed,Summary improved,Milestone 2
+ICD‑10 Classification,Added multi‑label support + confidence thresholding,2025-10-14,Closed,Codes more reliable,Milestone 2
+UI/Validation,Added patient data validation + improved errors,2025-10-22,Closed,Better UX,Milestone 3
+Backend/API,Optimized inference pipeline reducing latency 40%,2025-10-26,Closed,Performance improved,Milestone 3
+Integration,Fixed CORS + unified inference response structure,2025-11-01,Closed,Integration stable,Milestone 3
+Deployment,Resolved dependency conflicts in hosting environment,2025-11-05,Closed,Deployment stable,Milestone 4
+Functional,Corrected ICD‑10 mapping duplication,2025-11-12,Closed,Verified,Milestone 4
+UI,Adjusted layout alignment + mobile responsiveness,2025-11-17,Closed,Presentation-ready,Milestone 4

@@ -1,0 +1,9 @@
+Sprint,Day,Impediments,Action Taken
+Sprint 1,Day 2,Image enhancement model output blurry for low-light radiology images,Added preprocessing (contrast normalization + histogram equalization)
+Sprint 1,Day 4,Backend API returning slow responses during image enhancement inference,Enabled model warm‑loading and optimized CUDA batch size
+Sprint 2,Day 3,Clinical summary generation occasionally missing key symptoms from clinician notes,Improved text preprocessing and added medical keyword extraction
+Sprint 2,Day 5,ICD‑10 code prediction giving low‑confidence outputs for multi‑disease cases,Added confidence thresholding and fallback multi‑label classification rule
+Sprint 3,Day 2,Frontend UI failing to display enhanced images due to incorrect base64 formatting,Fixed decoder handling and updated API response structure
+Sprint 3,Day 4,Users reporting long wait time when summary + ICD‑10 tasks run together,Separated tasks into async workers using queue-based processing
+Sprint 4,Day 1,Deployment build failing because of incompatible Python dependency versions,Pinned stable versions and rebuilt using isolated virtual environment
+Sprint 4,Day 3,Doctors unable to upload large DICOM files on UI,Increased upload size limit and implemented progressive uploading

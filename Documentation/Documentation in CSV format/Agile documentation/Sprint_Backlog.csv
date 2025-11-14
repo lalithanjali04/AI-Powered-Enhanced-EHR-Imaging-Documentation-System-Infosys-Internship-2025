@@ -1,0 +1,7 @@
+US ID,Task ID,Task Description,Task Start Date,Task Completion Date,Team Member,Activity,Status,Original Estimate Effort (In Hours),Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Day 8,Day 9,Day 10,Day 11,Day 12,Day 13,Day 14
+US001,T1,Design and implement image upload module,2025-09-22 00:00:00,2025-09-23 00:00:00,Frontend1,UI Development,Done,6,✔️,✔️,,,,,,,,,,,,
+US001,T2,Integrate AI image enhancement model API,2025-09-22 00:00:00,2025-09-24 00:00:00,Backend1,Model Integration,Done,10,,✔️,✔️,✔️,,,,,,,,,,
+US002,T3,Develop clinical text input & preprocessing module,2025-09-22 00:00:00,2025-09-25 00:00:00,Frontend2,UI Development,Done,12,,,✔️,✔️,✔️,✔️,,,,,,,,
+US003,T4,Implement ICD-10 classification pipeline,2025-10-07 00:00:00,2025-10-10 00:00:00,Backend2,AI Inference,Done,8,,,,✔️,✔️,✔️,,,,,,,,
+US004,T5,Create output UI for enhanced images and reports,2025-10-07 00:00:00,2025-10-10 00:00:00,Frontend3,UI/UX,Done,10,,,,,✔️,✔️,✔️,✔️,,,,,,
+US005,T6,Deploy frontend and backend,2025-10-21 00:00:00,2025-10-23 00:00:00,DevOps,Deployment,Done,8,,,,,,✔️,✔️,✔️,✔️,,,,,

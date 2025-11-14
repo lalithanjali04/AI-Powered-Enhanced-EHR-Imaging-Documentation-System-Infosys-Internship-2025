@@ -1,0 +1,6 @@
+Sl: No:,Test Case Name,Test Procedure,Condition to be tested,Expected Result,Actual Result
+1,Clinical Note Generation Output,Run the GenAI model with sample EHR inputs.,Check if the model generates meaningful and structured clinical notes.,Well-formatted and clinically relevant notes.,As expected
+2,ICD-10 Code Mapping,Convert sample diagnoses into ICD-10 codes using automated coding.,Verify correct mapping for each diagnosis.,Accurate and valid ICD-10 code assignment.,As expected
+3,Notes and Codes Integration,Combine generated clinical notes with ICD-10 codes.,Ensure both appear together in the final output.,Unified output containing notes and codes.,As expected
+4,UI Output Rendering,Load the output in the frontend interface.,Confirm UI renders all sections without errors.,Proper and stable output rendering.,As expected
+5,System Integration and Workflow Execution,Test complete workflow from input to final integrated output.,Ensure models and modules work smoothly in sequence.,End-to-end pipeline runs without interruption.,Working as expected

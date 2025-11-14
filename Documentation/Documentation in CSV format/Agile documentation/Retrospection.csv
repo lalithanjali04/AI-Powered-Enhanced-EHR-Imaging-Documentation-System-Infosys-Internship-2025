@@ -1,0 +1,6 @@
+SL #,Sprint #,Sprint start date,Sprint end date,Team member name,Start Doing,Stop Doing,Continue Doing,Action taken
+1,1,2025-09-22,2025-10-06,Backend Team,Define clear preprocessing pipeline for medical images,Running inference without validating image quality,Synchronizing frequently with AI team,Created standardized preprocessing workflow with documentation
+2,2,2025-10-07,2025-10-20,AI Team,Validate clinical summaries with sample clinician feedback,Using generic summarization prompts,Iteratively tuning the summarization model,Developed medically‑aligned prompt templates and validation rules
+3,3,2025-10-21,2025-11-03,AI + Backend Team,Optimize ICD‑10 model with confidence scoring,Using single-label predictions only,Monitoring inference logs for model accuracy,Implemented multi‑label ICD‑10 inference with thresholding
+4,4,2025-11-04,2025-11-17,Frontend + Backend,Coordinate API–UI integration earlier in the sprint,Waiting until end of sprint to integrate enhancement outputs,Maintaining consistent API–UI contract,Scheduled mid‑sprint integration checkpoints
+5,5,2025-11-18,2025-11-22,DevOps + Full Team,Automate deployment and testing workflows,Manual environment testing,Continuous monitoring of deployed system,"Added CI/CD with auto‑tests, improved deployment reliability"
